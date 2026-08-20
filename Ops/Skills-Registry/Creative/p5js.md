@@ -575,7 +575,7 @@ Take a known generative pattern (flow field, particle system, L-system, cellular
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\creative\p5js\`
+`[HERMES_HOME]\skills\creative\p5js\`
 
 ---
 

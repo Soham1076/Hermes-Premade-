@@ -463,7 +463,7 @@ Headings 5/6 collapse to H4. Multiple `>` lines render as separate quote blocks 
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\productivity\notion\`
+`[HERMES_HOME]\skills\productivity\notion\`
 
 ---
 

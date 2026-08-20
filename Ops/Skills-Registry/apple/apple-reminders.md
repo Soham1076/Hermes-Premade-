@@ -146,7 +146,7 @@ Accepted by `--due` and date filters:
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\apple\apple-reminders\`
+`[HERMES_HOME]\skills\apple\apple-reminders\`
 
 ---
 

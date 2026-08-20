@@ -319,7 +319,7 @@ RUST_LOG=trace RUST_BACKTRACE=1 himalaya envelope list
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\email\himalaya\`
+`[HERMES_HOME]\skills\email\himalaya\`
 
 ---
 

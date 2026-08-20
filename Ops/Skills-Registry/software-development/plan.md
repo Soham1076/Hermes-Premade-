@@ -355,7 +355,7 @@ Frequent commits
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\software-development\plan\`
+`[HERMES_HOME]\skills\software-development\plan\`
 
 ---
 

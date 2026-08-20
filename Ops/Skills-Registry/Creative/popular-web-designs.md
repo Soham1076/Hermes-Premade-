@@ -224,7 +224,7 @@ Match the design to the content:
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\creative\popular-web-designs\`
+`[HERMES_HOME]\skills\creative\popular-web-designs\`
 
 ---
 

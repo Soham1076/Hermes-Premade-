@@ -667,7 +667,7 @@ You are running in CLI/API mode, not hosted Claude Design. Ignore references to 
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\creative\claude-design\`
+`[HERMES_HOME]\skills\creative\claude-design\`
 
 ---
 

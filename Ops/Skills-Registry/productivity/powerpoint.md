@@ -236,7 +236,7 @@ say so rather than approximating.
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\productivity\powerpoint\`
+`[HERMES_HOME]\skills\productivity\powerpoint\`
 
 ---
 

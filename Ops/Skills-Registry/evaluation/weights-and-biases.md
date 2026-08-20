@@ -612,7 +612,7 @@ print(f"Share this URL: {run.url}")
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\mlops\evaluation\weights-and-biases\`
+`[HERMES_HOME]\skills\mlops\evaluation\weights-and-biases\`
 
 ---
 

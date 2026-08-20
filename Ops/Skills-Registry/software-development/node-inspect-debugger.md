@@ -336,7 +336,7 @@ debug> bt
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\software-development\node-inspect-debugger\`
+`[HERMES_HOME]\skills\software-development\node-inspect-debugger\`
 
 ---
 

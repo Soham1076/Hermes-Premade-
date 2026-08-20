@@ -229,7 +229,7 @@ A skill exists to make the agent's process more predictable — the agent reliab
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\software-development\hermes-agent-skill-authoring\`
+`[HERMES_HOME]\skills\software-development\hermes-agent-skill-authoring\`
 
 ---
 

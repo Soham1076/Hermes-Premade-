@@ -450,7 +450,7 @@ xurl --app staging /2/users/me             # one-off against staging
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\social-media\xurl\`
+`[HERMES_HOME]\skills\social-media\xurl\`
 
 ---
 

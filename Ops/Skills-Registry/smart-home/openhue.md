@@ -127,7 +127,7 @@ openhue set room "Living Room" --off
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\smart-home\openhue\`
+`[HERMES_HOME]\skills\smart-home\openhue\`
 
 ---
 

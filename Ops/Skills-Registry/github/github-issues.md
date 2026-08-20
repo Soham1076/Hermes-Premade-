@@ -387,7 +387,7 @@ curl -s \
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\github\github-issues\`
+`[HERMES_HOME]\skills\github\github-issues\`
 
 ---
 

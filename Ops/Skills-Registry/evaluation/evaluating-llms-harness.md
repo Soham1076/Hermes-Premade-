@@ -511,7 +511,7 @@ code execution.
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\mlops\evaluation\evaluating-llms-harness\`
+`[HERMES_HOME]\skills\mlops\evaluation\evaluating-llms-harness\`
 
 ---
 

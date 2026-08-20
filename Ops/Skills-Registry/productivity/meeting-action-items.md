@@ -104,7 +104,7 @@ Create/update only approved records, attaching meeting provenance. Read back ass
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\productivity\meeting-action-items\`
+`[HERMES_HOME]\skills\productivity\meeting-action-items\`
 
 ---
 

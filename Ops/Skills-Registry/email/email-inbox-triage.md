@@ -104,7 +104,7 @@ Send, label, archive, or create follow-ups only within approval. For ambiguous s
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\email\email-inbox-triage\`
+`[HERMES_HOME]\skills\email\email-inbox-triage\`
 
 ---
 

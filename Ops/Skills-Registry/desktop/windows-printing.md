@@ -17,7 +17,7 @@ Print files on Windows reliably via command line.
 ## 📖 Full Skill Documentation
 
 # Overview
-This skill encapsulates a class‑level workflow for printing files (images, PDFs) on a Windows 10 machine using built‑in tools and common utilities. It is tuned for the user **Takopi**, who prefers short, direct instructions and fast, repeatable automation.
+This skill encapsulates a class‑level workflow for printing files (images, PDFs) on a Windows 10 machine using built‑in tools and common utilities. It is tuned for the user **[USER_NAME]**, who prefers short, direct instructions and fast, repeatable automation.
 
 ## Prerequisites
 - A working printer installed in **Settings → Printers & scanners**.
@@ -105,7 +105,7 @@ computer_use(action="click", app="explorer.exe", element=print_btn.index, pid=pr
 - `references/printing-session-20260805.md` – earlier troubleshooting session transcript.
 
 ---
-*This skill follows Takopi’s preference for concise, direct instructions.*
+*This skill follows [USER_NAME]’s preference for concise, direct instructions.*
 
 ---
 
@@ -120,7 +120,7 @@ computer_use(action="click", app="explorer.exe", element=print_btn.index, pid=pr
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\desktop\windows-printing\`
+`[HERMES_HOME]\skills\desktop\windows-printing\`
 
 ---
 

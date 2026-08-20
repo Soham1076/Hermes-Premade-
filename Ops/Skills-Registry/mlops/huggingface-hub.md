@@ -101,7 +101,7 @@ The `hf` command is the modern command-line interface for interacting with the H
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\mlops\huggingface-hub\`
+`[HERMES_HOME]\skills\mlops\huggingface-hub\`
 
 ---
 

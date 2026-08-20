@@ -384,7 +384,7 @@ git push -u origin HEAD
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\github\github-pr-workflow\`
+`[HERMES_HOME]\skills\github\github-pr-workflow\`
 
 ---
 

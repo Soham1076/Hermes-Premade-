@@ -36,7 +36,7 @@ Maintain a living Obsidian vault mirror of Hermes Agent's state: skills catalog,
 
 ## Vault Structure (Graph-Friendly)
 
-```\n/path/to/vault/Cosmos-KB/\n├── Home.md                              # 🏠 Graph entry point (navigation table)\n├── Memories/\n│   └── Takopi-Profile.md                # 👤 User profile, preferences, boundaries\n├── Skills/\n│   ├── Catalog.md                       # 📋 All skills by category (wikilinks)\n│   └── <Category>/<skill-name>.md       # 📄 Individual skill pages (94 total)\n├── Config/\n│   └── Active-Configuration.md          # ⚙️ Model, TTS, Vision, Gateway, Cron\n├── Chats/\n│   ├── Chat-Sessions-Index.md           # 📋 Session index + template\n│   └── YYYY-MM-DD/\n│       └── Session-Topic.md             # 💬 Per-chat: summary, skills, decisions, artifacts\n└── Daily/\n    ├── Index.md                         # 📅 Daily notes index\n    └── YYYY-MM-DD.md                    # 📝 Daily summary (sessions, config, files, memories)\n```
+```\n/path/to/vault/Cosmos-KB/\n├── Home.md                              # 🏠 Graph entry point (navigation table)\n├── Memories/\n│   └── [USER_NAME]-Profile.md                # 👤 User profile, preferences, boundaries\n├── Skills/\n│   ├── Catalog.md                       # 📋 All skills by category (wikilinks)\n│   └── <Category>/<skill-name>.md       # 📄 Individual skill pages (94 total)\n├── Config/\n│   └── Active-Configuration.md          # ⚙️ Model, TTS, Vision, Gateway, Cron\n├── Chats/\n│   ├── Chat-Sessions-Index.md           # 📋 Session index + template\n│   └── YYYY-MM-DD/\n│       └── Session-Topic.md             # 💬 Per-chat: summary, skills, decisions, artifacts\n└── Daily/\n    ├── Index.md                         # 📅 Daily notes index\n    └── YYYY-MM-DD.md                    # 📝 Daily summary (sessions, config, files, memories)\n```
 
 **Naming Convention:** Descriptive filenames (not `Index.md`) for clean Obsidian graph view.
 - Each chat = own file in `Chats/YYYY-MM-DD/Topic.md`
@@ -109,11 +109,11 @@ Compare new content with existing before writing. Only write if changed to avoid
 ## Current Cron Prompt (Updated)
 
 ```text
-Update the Obsidian vault at /c/Users/soham/OneDrive/Documents/Obsidian Vault/Cosmos-KB with current Hermes state:
+Update the Obsidian vault at [VAULT_PATH] with current Hermes state:
 
 1. **Skills/Catalog.md** - Refresh from `skills_list()` (all 94 skills with categories)
 2. **Skills/<Category>/<skill-name>.md** - Create/update individual skill pages for all 94 skills (use `skill_view()` for each)
-3. **Memories/Takopi-Profile.md** - Refresh from `memory(target="user")` and `memory(target="memory")`
+3. **Memories/[USER_NAME]-Profile.md** - Refresh from `memory(target="user")` and `memory(target="memory")`
 4. **Config/Active-Configuration.md** - Refresh current model, provider, TTS, vision, gateway status, cron jobs
 5. **Chats/Chat-Sessions-Index.md** - Add any new session links from recent conversations
 6. **Daily/YYYY-MM-DD.md** - Create/update today's daily note with summary
@@ -156,7 +156,7 @@ Only update if content actually changed (compare with existing).
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\note-taking\hermes-obsidian-sync\`
+`[HERMES_HOME]\skills\note-taking\hermes-obsidian-sync\`
 
 ---
 

@@ -762,7 +762,7 @@ Use `/context` in interactive mode to see a colored grid of context usage. Key t
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\autonomous-ai-agents\claude-code\`
+`[HERMES_HOME]\skills\autonomous-ai-agents\claude-code\`
 
 ---
 

@@ -128,7 +128,7 @@ Point the user to these when they need more depth than this skill covers:
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\productivity\teams-meeting-pipeline\`
+`[HERMES_HOME]\skills\productivity\teams-meeting-pipeline\`
 
 ---
 

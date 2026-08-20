@@ -181,7 +181,7 @@ Save the report to `{output_dir}/report.md`.
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\software-development\dogfood\`
+`[HERMES_HOME]\skills\software-development\dogfood\`
 
 ---
 

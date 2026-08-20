@@ -105,7 +105,7 @@ Report per event: company, event, date, evidence links, what changed, why it mat
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\research\competitor-news-monitor\`
+`[HERMES_HOME]\skills\research\competitor-news-monitor\`
 
 ---
 

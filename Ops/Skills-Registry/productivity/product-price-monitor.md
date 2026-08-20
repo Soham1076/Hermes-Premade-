@@ -96,7 +96,7 @@ When a condition is met, the alert includes: exact item/variant, observed all-in
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\productivity\product-price-monitor\`
+`[HERMES_HOME]\skills\productivity\product-price-monitor\`
 
 ---
 

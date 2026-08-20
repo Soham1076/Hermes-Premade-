@@ -164,7 +164,7 @@ The template contains working examples of every component type (frontend, backen
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\creative\architecture-diagram\`
+`[HERMES_HOME]\skills\creative\architecture-diagram\`
 
 ---
 

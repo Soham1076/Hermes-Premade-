@@ -1,5 +1,5 @@
 ---
-aliases: [Cosmos Mind, Agentic OS, Home, Dashboard]
+aliases: [Agentic OS, Mind Hub, Home, Dashboard]
 tags: [dashboard, moc, hub, template]
 ---
 

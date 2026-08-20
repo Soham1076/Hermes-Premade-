@@ -428,7 +428,7 @@ From debugging sessions:
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\software-development\systematic-debugging\`
+`[HERMES_HOME]\skills\software-development\systematic-debugging\`
 
 ---
 

@@ -138,7 +138,7 @@ python3 scripts/pdf_meta.py doc.pdf --list-attachments | --extract-attachments d
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\productivity\pdf\`
+`[HERMES_HOME]\skills\productivity\pdf\`
 
 ---
 

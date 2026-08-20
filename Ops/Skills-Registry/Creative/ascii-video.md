@@ -265,7 +265,7 @@ If the user asks for creative, experimental, surprising, or unconventional outpu
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\creative\ascii-video\`
+`[HERMES_HOME]\skills\creative\ascii-video\`
 
 ---
 

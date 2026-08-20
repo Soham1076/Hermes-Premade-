@@ -17,7 +17,7 @@ Concise, direct responses in informal style.
 ## 📖 Full Skill Documentation
 
 # Overview
-This skill encodes the user’s (Takopi’s) communication preferences so the assistant consistently provides concise, informal, and to‑the‑point replies.
+This skill encodes the user’s ([USER_NAME]’s) communication preferences so the assistant consistently provides concise, informal, and to‑the‑point replies.
 
 ## Preference Details
 - **Brevity** – Keep answers short; omit unnecessary exposition.
@@ -45,7 +45,7 @@ Before generating any response, load this skill and follow its guidelines. If th
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\user-preferences\communication-preferences\`
+`[HERMES_HOME]\skills\user-preferences\communication-preferences\`
 
 ---
 

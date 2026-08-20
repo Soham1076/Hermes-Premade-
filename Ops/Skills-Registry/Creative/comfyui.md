@@ -613,7 +613,7 @@ Use `python3 scripts/health_check.py` to run the whole list at once. Manual:
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\creative\comfyui\`
+`[HERMES_HOME]\skills\creative\comfyui\`
 
 ---
 

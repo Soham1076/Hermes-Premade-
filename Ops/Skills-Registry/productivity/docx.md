@@ -212,7 +212,7 @@ cannot render PDFs, and layout fidelity requires a real renderer.
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\productivity\docx\`
+`[HERMES_HOME]\skills\productivity\docx\`
 
 ---
 

@@ -498,7 +498,7 @@ git branch -D pr-$PR_NUMBER
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\github\github-code-review\`
+`[HERMES_HOME]\skills\github\github-code-review\`
 
 ---
 

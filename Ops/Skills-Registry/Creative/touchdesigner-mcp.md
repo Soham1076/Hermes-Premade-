@@ -372,7 +372,7 @@ See `references/network-patterns.md` for complete build scripts + shader code.
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\creative\touchdesigner-mcp\`
+`[HERMES_HOME]\skills\creative\touchdesigner-mcp\`
 
 ---
 

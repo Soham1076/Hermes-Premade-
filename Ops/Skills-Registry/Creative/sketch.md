@@ -237,7 +237,7 @@ Adapted from the GSD (Get Shit Done) project's `/gsd-sketch` workflow — MIT ©
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\creative\sketch\`
+`[HERMES_HOME]\skills\creative\sketch\`
 
 ---
 

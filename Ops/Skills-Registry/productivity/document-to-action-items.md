@@ -98,7 +98,7 @@ Use the user's approved destination — `notion`, a calendar, a spreadsheet via 
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\productivity\document-to-action-items\`
+`[HERMES_HOME]\skills\productivity\document-to-action-items\`
 
 ---
 

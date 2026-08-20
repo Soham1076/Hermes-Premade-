@@ -131,7 +131,7 @@ Special pseudo-languages:
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\github\codebase-inspection\`
+`[HERMES_HOME]\skills\github\codebase-inspection\`
 
 ---
 

@@ -347,7 +347,7 @@ $GSETUP --revoke
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\productivity\google-workspace\`
+`[HERMES_HOME]\skills\productivity\google-workspace\`
 
 ---
 

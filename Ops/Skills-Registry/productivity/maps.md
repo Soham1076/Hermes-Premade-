@@ -210,7 +210,7 @@ python3 ~/.hermes/skills/maps/scripts/maps_client.py nearby --near "Times Square
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\productivity\maps\`
+`[HERMES_HOME]\skills\productivity\maps\`
 
 ---
 

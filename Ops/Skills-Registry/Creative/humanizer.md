@@ -662,7 +662,7 @@ Key insight from Wikipedia: "LLMs use statistical algorithms to guess what shoul
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\creative\humanizer\`
+`[HERMES_HOME]\skills\creative\humanizer\`
 
 ---
 

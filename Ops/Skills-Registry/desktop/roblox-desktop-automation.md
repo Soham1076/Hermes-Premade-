@@ -39,7 +39,7 @@ hermes skill run roblox-desktop-automation --verify
 
 1. **Launch Roblox Player directly** (background)
    ```python
-   terminal(command='start "" "C:\\Users\\soham\\AppData\\Local\\Roblox\\Versions\\version-<hash>\\RobloxPlayerBeta.exe"', background=True)
+   terminal(command='start "" "C:\\Users\\[username]\\AppData\\Local\\Roblox\\Versions\\version-<hash>\\RobloxPlayerBeta.exe"', background=True)
    computer_use(action="wait", seconds=20)
    ```
 
@@ -90,7 +90,7 @@ The local Ollama + moondream model can verify game load:
 # Place ID: 126509999165004
 # Share code: f915e10f9781f441b324524ce4afea14
 
-start "" "C:\Users\soham\AppData\Local\Roblox\Versions\version-145f189a6a974303\RobloxPlayerBeta.exe"
+start "" "[APPDATA]Roblox\Versions\version-145f189a6a974303\RobloxPlayerBeta.exe"
 # wait 20s
 start "" "roblox://placeId=126509999165004&privateServerLinkCode=f915e10f9781f441b324524ce4afea14"
 # wait 20s
@@ -114,7 +114,7 @@ start "" "roblox://placeId=126509999165004&privateServerLinkCode=f915e10f9781f44
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\desktop\roblox-desktop-automation\`
+`[HERMES_HOME]\skills\desktop\roblox-desktop-automation\`
 
 ---
 

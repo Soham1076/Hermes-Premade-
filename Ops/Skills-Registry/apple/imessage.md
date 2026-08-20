@@ -118,7 +118,7 @@ imsg send --to "+1555123456" --text "I'll be late"
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\apple\imessage\`
+`[HERMES_HOME]\skills\apple\imessage\`
 
 ---
 

@@ -369,7 +369,7 @@ space alongside this skill.
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\autonomous-ai-agents\computer-use\`
+`[HERMES_HOME]\skills\autonomous-ai-agents\computer-use\`
 
 ---
 

@@ -379,7 +379,7 @@ No exceptions without the user's explicit permission.
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\software-development\test-driven-development\`
+`[HERMES_HOME]\skills\software-development\test-driven-development\`
 
 ---
 

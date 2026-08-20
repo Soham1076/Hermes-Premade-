@@ -149,7 +149,7 @@ hermes config set tts.elevenlabs.voice_id EXAVITQu4vr4xnSDxMaL  # "Bella" - cute
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\configuration\tts-voice-selection\`
+`[HERMES_HOME]\skills\configuration\tts-voice-selection\`
 
 ---
 

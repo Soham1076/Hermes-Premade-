@@ -214,7 +214,7 @@ Adapted from the GSD (Get Shit Done) project's `/gsd-spike` workflow — MIT © 
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\software-development\spike\`
+`[HERMES_HOME]\skills\software-development\spike\`
 
 ---
 

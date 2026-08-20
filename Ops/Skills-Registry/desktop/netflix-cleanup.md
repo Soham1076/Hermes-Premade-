@@ -62,7 +62,7 @@ Or invoke from an agent — just say "Close Netflix and minimize all windows"
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\desktop\netflix-cleanup\`
+`[HERMES_HOME]\skills\desktop\netflix-cleanup\`
 
 ---
 

@@ -248,7 +248,7 @@ attribution during editing.
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\research\grounded-citations\`
+`[HERMES_HOME]\skills\research\grounded-citations\`
 
 ---
 

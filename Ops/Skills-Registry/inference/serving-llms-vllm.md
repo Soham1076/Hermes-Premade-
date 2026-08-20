@@ -386,7 +386,7 @@ Supported platforms: NVIDIA (primary), AMD ROCm, Intel GPUs, TPUs
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\mlops\inference\serving-llms-vllm\`
+`[HERMES_HOME]\skills\mlops\inference\serving-llms-vllm\`
 
 ---
 

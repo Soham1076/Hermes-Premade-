@@ -320,7 +320,7 @@ tags plus comma-separated style tags.
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\creative\songwriting-and-ai-music\`
+`[HERMES_HOME]\skills\creative\songwriting-and-ai-music\`
 
 ---
 

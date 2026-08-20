@@ -176,7 +176,7 @@ also want the perf harness.
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\software-development\inspecting-hermes-desktop-dom\`
+`[HERMES_HOME]\skills\software-development\inspecting-hermes-desktop-dom\`
 
 ---
 

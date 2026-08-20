@@ -533,7 +533,7 @@ for g in json.load(sys.stdin):
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\github\github-repo-management\`
+`[HERMES_HOME]\skills\github\github-repo-management\`
 
 ---
 

@@ -390,7 +390,7 @@ PYTHONFAULTHANDLER=1 python -m pdb -c continue path/to/entrypoint.py
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\software-development\python-debugpy\`
+`[HERMES_HOME]\skills\software-development\python-debugpy\`
 
 ---
 

@@ -287,7 +287,7 @@ the bug hunt; this is the cleanup.
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\software-development\simplify-code\`
+`[HERMES_HOME]\skills\software-development\simplify-code\`
 
 ---
 

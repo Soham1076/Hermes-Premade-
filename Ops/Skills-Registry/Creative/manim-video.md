@@ -292,7 +292,7 @@ Take a standard mathematical/technical visualization and transform it:
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\creative\manim-video\`
+`[HERMES_HOME]\skills\creative\manim-video\`
 
 ---
 

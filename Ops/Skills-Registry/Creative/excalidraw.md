@@ -212,7 +212,7 @@ See `references/colors.md` for full color tables. Quick reference:
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\creative\excalidraw\`
+`[HERMES_HOME]\skills\creative\excalidraw\`
 
 ---
 

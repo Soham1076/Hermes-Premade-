@@ -100,7 +100,7 @@ After fetching the transcript, format it based on what the user asks for:
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\media\youtube-content\`
+`[HERMES_HOME]\skills\media\youtube-content\`
 
 ---
 

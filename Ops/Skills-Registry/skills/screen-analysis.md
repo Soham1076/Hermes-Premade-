@@ -31,7 +31,7 @@ This skill enables Hermes to analyze a screenshot only when the user explicitly 
 
 - OCR works best with clear, high‑resolution screenshots; low‑resolution images may produce poor results.
 - Large images (>5 MB) may need to be resized before OCR; this skill does not handle resizing automatically.
-- Ensure the image file is saved under the user's home directory (`/c/Users/soham/...`) so subsequent shell commands can access it.
+- Ensure the image file is saved under the user's home directory (`/c/Users/[username]/...`) so subsequent shell commands can access it.
 
 ## Verification
 

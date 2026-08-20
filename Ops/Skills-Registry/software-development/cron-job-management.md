@@ -108,10 +108,10 @@ hermes cron create \
 **Diagnosis:**
 ```bash
 # Check agent log for cron execution
-grep "cron_3cd08e895c29" ~/.hermes/profiles/cosmos/logs/agent.log
+grep "cron_3cd08e895c29" ~/.hermes/profiles/[PROFILE]/logs/agent.log
 
 # Check gateway scheduler log
-grep "cron.scheduler.*3cd08e895c29" ~/.hermes/profiles/cosmos/logs/gateway.log
+grep "cron.scheduler.*3cd08e895c29" ~/.hermes/profiles/[PROFILE]/logs/gateway.log
 ```
 
 **Root Cause:** NVIDIA provider has 32 concurrent request cap. Multiple active sessions (Telegram, Discord, cron) share the pool.
@@ -137,7 +137,7 @@ grep "cron.scheduler.*3cd08e895c29" ~/.hermes/profiles/cosmos/logs/gateway.log
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\software-development\cron-job-management\`
+`[HERMES_HOME]\skills\software-development\cron-job-management\`
 
 ---
 

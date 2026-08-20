@@ -69,7 +69,7 @@ nano-pdf edit contract.pdf 2 "Change the client name from 'Acme Corp' to 'Acme I
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\productivity\nano-pdf\`
+`[HERMES_HOME]\skills\productivity\nano-pdf\`
 
 ---
 

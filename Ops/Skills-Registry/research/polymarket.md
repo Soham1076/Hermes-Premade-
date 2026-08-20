@@ -98,7 +98,7 @@ Generous — unlikely to hit for normal usage:
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\research\polymarket\`
+`[HERMES_HOME]\skills\research\polymarket\`
 
 ---
 

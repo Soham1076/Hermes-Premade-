@@ -237,7 +237,7 @@ Official playground: [chenglou.me/pretext](https://chenglou.me/pretext/) — acc
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\creative\pretext\`
+`[HERMES_HOME]\skills\creative\pretext\`
 
 ---
 

@@ -50,13 +50,13 @@ hermes computer-use click --element 35
 
 ## Parameters
 
-- `IMAGE_PATH` – absolute path to the image you want to print (e.g., `C:\Users\soham\screenshot.png`).
+- `IMAGE_PATH` – absolute path to the image you want to print (e.g., `[USER_HOME]\screenshot.png`).
 - `PRINTER_NAME` – optional; defaults to `Brother DCP‑T535DW`. Adjust the printer selection in the system dialog if needed.
 
 ## Usage Example
 
 ```bash
-hermes skill run print-image -- IMAGE_PATH="C:\Users\soham\screenshot.png"
+hermes skill run print-image -- IMAGE_PATH="[USER_HOME]\screenshot.png"
 ```
 This will print the image on the configured printer.tags: [skill, skills, #skill/skills]
 parent: "[[Ops/Skills-Registry/skills/MOC-Skills]]"

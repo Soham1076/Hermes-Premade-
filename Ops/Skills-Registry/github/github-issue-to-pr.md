@@ -94,7 +94,7 @@ Inspect live checks and failure logs via `gh pr checks` / `gh run view --log-fai
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\github\github-issue-to-pr\`
+`[HERMES_HOME]\skills\github\github-issue-to-pr\`
 
 ---
 

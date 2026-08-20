@@ -132,7 +132,7 @@ echo "GEMINI_API_KEY=your_key_here" >> ~/.hermes/.env
 # Or: hermes auth add gemini
 
 # 4. Optional: Add persistent persona instructions for auto-tagging
-hermes config set tts.gemini.instructions "Speak as a playful, mischievous anime catgirl who calls the user 'Takopi' and 'Master'. Use lots of emotion tags like [playfully], [whispers], [giggles], [seductively]. End sentences with 'nya~' sometimes."
+hermes config set tts.gemini.instructions "Speak as a playful, mischievous anime catgirl who calls the user '[USER_NAME]' and 'Master'. Use lots of emotion tags like [playfully], [whispers], [giggles], [seductively]. End sentences with 'nya~' sometimes."
 
 # 5. Test
 hermes chat -q "Nya~! Hello Master! [excitedly] This is so fun! [whispers] Our little secret, okay? [giggles] ♡"
@@ -298,7 +298,7 @@ Discord voice messages use the raw API with `flags=8192` and require Ogg/Opus au
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\software-development\hermes-tts-configuration\`
+`[HERMES_HOME]\skills\software-development\hermes-tts-configuration\`
 
 ---
 

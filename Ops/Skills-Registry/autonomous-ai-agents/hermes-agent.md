@@ -220,7 +220,7 @@ terminal(command="tmux new-session -d -s resumed 'hermes --resume 20260225_14305
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\autonomous-ai-agents\hermes-agent\`
+`[HERMES_HOME]\skills\autonomous-ai-agents\hermes-agent\`
 
 ---
 

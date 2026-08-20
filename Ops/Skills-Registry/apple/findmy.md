@@ -149,7 +149,7 @@ Analyze each screenshot with vision to extract coordinates, then compile a route
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\apple\findmy\`
+`[HERMES_HOME]\skills\apple\findmy\`
 
 ---
 

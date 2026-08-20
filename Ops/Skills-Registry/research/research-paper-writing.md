@@ -1639,7 +1639,7 @@ See [templates/README.md](templates/README.md) for compilation instructions.
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\research\research-paper-writing\`
+`[HERMES_HOME]\skills\research\research-paper-writing\`
 
 ---
 

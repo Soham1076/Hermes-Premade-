@@ -26,10 +26,10 @@ Run the skill with a profile name parameter:
 
 ```bash
 # From terminal
-hermes skill run netflix-profile-switcher --profile sohammm
+hermes skill run netflix-profile-switcher --profile [PROFILE_NAME]
 ```
 
-Or invoke from an agent — just say "Open Netflix on Edge and go to my profile sohammm"
+Or invoke from an agent — just say "Open Netflix on Edge and go to my profile [PROFILE_NAME]"
 
 ## Steps (internal)
 
@@ -66,7 +66,7 @@ Or invoke from an agent — just say "Open Netflix on Edge and go to my profile 
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\desktop\netflix-profile-switcher\`
+`[HERMES_HOME]\skills\desktop\netflix-profile-switcher\`
 
 ---
 

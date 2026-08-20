@@ -236,7 +236,7 @@ Success criteria:
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\autonomous-ai-agents\opencode\`
+`[HERMES_HOME]\skills\autonomous-ai-agents\opencode\`
 
 ---
 

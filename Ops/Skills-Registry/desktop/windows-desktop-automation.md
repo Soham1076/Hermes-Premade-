@@ -128,7 +128,7 @@ computer_use(action="click", app="msedge.exe", element=profile_btn.index, captur
 result = computer_use(action="capture", app="msedge.exe", mode="som")
 
 # 5. Find target profile
-target = find_element(result, label_contains="Sohammm")
+target = find_element(result, label_contains="[PROFILE_NAME]")
 
 # 6. Click profile
 computer_use(action="click", app="msedge.exe", element=target.index)
@@ -261,7 +261,7 @@ computer_use(action="wait", seconds=8)
 
 # 5. Re-capture - user is now logged in if session exists
 result = computer_use(action="capture", app="msedge.exe", mode="som")
-# Look for user profile indicators (e.g., "Hey, Soham!", profile image, sidebar with user name)
+# Look for user profile indicators (e.g., "Hey, [USER_NAME]!", profile image, sidebar with user name)
 
 # 6. Navigate within app by clicking sidebar/menu elements
 tests_btn = find_element(result, label="Tests")  # element 39/40
@@ -393,7 +393,7 @@ After any automation sequence:
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\desktop\windows-desktop-automation\`
+`[HERMES_HOME]\skills\desktop\windows-desktop-automation\`
 
 ---
 

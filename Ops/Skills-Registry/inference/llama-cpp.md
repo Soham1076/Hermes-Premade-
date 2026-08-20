@@ -266,7 +266,7 @@ Source URLs:
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\mlops\inference\llama-cpp\`
+`[HERMES_HOME]\skills\mlops\inference\llama-cpp\`
 
 ---
 

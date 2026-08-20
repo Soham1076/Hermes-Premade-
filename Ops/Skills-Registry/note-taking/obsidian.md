@@ -85,7 +85,7 @@ Obsidian links notes with `[[Note Name]]` syntax. When creating notes, use these
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\note-taking\obsidian\`
+`[HERMES_HOME]\skills\note-taking\obsidian\`
 
 ---
 

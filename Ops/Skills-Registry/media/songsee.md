@@ -98,7 +98,7 @@ Multiple `--viz` types render as a grid in a single image.
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\media\songsee\`
+`[HERMES_HOME]\skills\media\songsee\`
 
 ---
 

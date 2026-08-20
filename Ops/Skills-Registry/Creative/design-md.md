@@ -237,7 +237,7 @@ summary — WCAG findings are the most load-bearing reason to use the CLI.
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\creative\design-md\`
+`[HERMES_HOME]\skills\creative\design-md\`
 
 ---
 

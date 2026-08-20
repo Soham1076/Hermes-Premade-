@@ -337,7 +337,7 @@ When tools above don't have what's needed, generate ASCII art directly using the
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\creative\ascii-art\`
+`[HERMES_HOME]\skills\creative\ascii-art\`
 
 ---
 

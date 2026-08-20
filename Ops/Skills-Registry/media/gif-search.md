@@ -106,7 +106,7 @@ Each result has multiple formats under `.media_formats`:
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\media\gif-search\`
+`[HERMES_HOME]\skills\media\gif-search\`
 
 ---
 

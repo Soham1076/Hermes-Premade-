@@ -297,7 +297,7 @@ tests exist, tests pass, no regressions.
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\software-development\requesting-code-review\`
+`[HERMES_HOME]\skills\software-development\requesting-code-review\`
 
 ---
 

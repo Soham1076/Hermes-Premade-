@@ -523,7 +523,7 @@ use llmwiki when you want batch compile of a source directory.
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\research\llm-wiki\`
+`[HERMES_HOME]\skills\research\llm-wiki\`
 
 ---
 

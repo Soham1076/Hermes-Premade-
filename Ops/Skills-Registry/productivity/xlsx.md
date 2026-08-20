@@ -212,7 +212,7 @@ LibreOffice or hand the file to the user unconverted.
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\productivity\xlsx\`
+`[HERMES_HOME]\skills\productivity\xlsx\`
 
 ---
 

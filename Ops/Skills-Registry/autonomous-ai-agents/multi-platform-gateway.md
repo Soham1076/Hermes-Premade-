@@ -221,7 +221,7 @@ tail -100 ~/.hermes/logs/gateway.log
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\autonomous-ai-agents\multi-platform-gateway\`
+`[HERMES_HOME]\skills\autonomous-ai-agents\multi-platform-gateway\`
 
 ---
 

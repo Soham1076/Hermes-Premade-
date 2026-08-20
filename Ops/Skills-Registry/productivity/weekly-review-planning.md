@@ -98,7 +98,7 @@ Update tasks/projects, create calendar holds, archive processed items, and draft
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\productivity\weekly-review-planning\`
+`[HERMES_HOME]\skills\productivity\weekly-review-planning\`
 
 ---
 

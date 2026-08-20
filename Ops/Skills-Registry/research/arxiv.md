@@ -299,7 +299,7 @@ Papers can be withdrawn after submission. When this happens:
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\research\arxiv\`
+`[HERMES_HOME]\skills\research\arxiv\`
 
 ---
 

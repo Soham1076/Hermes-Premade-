@@ -254,7 +254,7 @@ Report: topic, layout, style, aspect, language, output path, files created.
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\creative\baoyu-infographic\`
+`[HERMES_HOME]\skills\creative\baoyu-infographic\`
 
 ---
 

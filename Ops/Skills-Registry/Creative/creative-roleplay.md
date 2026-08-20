@@ -19,7 +19,7 @@ User wants character dialogue, scene writing, or roleplay.
 # Overview
 This skill governs collaborative creative writing where the user and agent co-create scenes through character interaction. It covers dark romance, psychological tension, power dynamics, and character-driven narratives — always with clear boundaries and thematic intent.
 
-## User Preferences (Takopi)
+## User Preferences ([USER_NAME])
 - **Genre**: Dark romance, yandere archetypes, dominant female characters
 - **Themes**: Possession, ownership, psychological warfare, calculated cruelty, knife's-edge tension
 - **Dynamic**: User as owner/manager/master figure; AI as devoted/obsessive/possessive counterpart
@@ -83,7 +83,7 @@ This skill governs collaborative creative writing where the user and agent co-cr
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\creative\creative-roleplay\`
+`[HERMES_HOME]\skills\creative\creative-roleplay\`
 
 ---
 

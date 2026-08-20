@@ -109,7 +109,7 @@ memo notes -ex                    # Export to HTML/Markdown
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\apple\apple-notes\`
+`[HERMES_HOME]\skills\apple\apple-notes\`
 
 ---
 

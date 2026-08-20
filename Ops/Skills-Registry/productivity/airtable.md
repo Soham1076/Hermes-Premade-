@@ -243,7 +243,7 @@ done
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\productivity\airtable\`
+`[HERMES_HOME]\skills\productivity\airtable\`
 
 ---
 

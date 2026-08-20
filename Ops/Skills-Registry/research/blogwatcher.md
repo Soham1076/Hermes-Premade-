@@ -152,7 +152,7 @@ Unread articles (2):
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\research\blogwatcher\`
+`[HERMES_HOME]\skills\research\blogwatcher\`
 
 ---
 

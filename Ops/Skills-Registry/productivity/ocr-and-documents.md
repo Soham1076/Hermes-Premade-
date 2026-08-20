@@ -192,7 +192,7 @@ No extra dependencies needed — pymupdf covers split, merge, search, and text e
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\productivity\ocr-and-documents\`
+`[HERMES_HOME]\skills\productivity\ocr-and-documents\`
 
 ---
 

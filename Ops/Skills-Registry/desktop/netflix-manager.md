@@ -24,7 +24,7 @@ Complete Netflix workflow: open Edge → go to Netflix → switch profile → (w
 
 ```bash
 # Full workflow (open + switch profile)
-hermes skill run netflix-manager --profile sohammm
+hermes skill run netflix-manager --profile [PROFILE_NAME]
 
 # Just cleanup
 hermes skill run netflix-manager --cleanup
@@ -72,7 +72,7 @@ hermes skill run netflix-manager --profile kids
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\desktop\netflix-manager\`
+`[HERMES_HOME]\skills\desktop\netflix-manager\`
 
 ---
 

@@ -264,7 +264,7 @@ fi
 ---
 
 ## 📂 Skill Directory
-`C:\Users\soham\AppData\Local\hermes\profiles\cosmos\skills\github\github-auth\`
+`[HERMES_HOME]\skills\github\github-auth\`
 
 ---
 
