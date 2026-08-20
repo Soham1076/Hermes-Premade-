@@ -1,0 +1,12 @@
+# Obsidian system
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/graph.json
+.obsidian/plugins/*/data.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sync conflicts
+*.sync-conflict-*
