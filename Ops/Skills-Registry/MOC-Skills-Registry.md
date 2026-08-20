@@ -1,9 +1,4 @@
----
-aliases: [Skills Registry, Skill Catalog, Capabilities]
-tags: [ops, skills, template, registry]
----
-
-# 🛠️ MOC — Skills Registry
+# 🤖 MOC — Skills Registry
 
 > **Cluster**: Operations • **Sub-Cluster**: Skills Registry
 > **Purpose**: Skill lifecycle management — catalog, templates, incubation, deprecation
@@ -15,14 +10,14 @@ tags: [ops, skills, template, registry]
 
 | File | Purpose | Tags |
 |------|---------|------|
-| `[[Ops/Skills-Registry/Catalog]]` | Complete skill index (auto-generated) | `#hub #catalog` |
+| `[[Ops/Skills-Registry/Catalog]]` | Complete skill index (85 skills, 14 categories) | `#hub #catalog` |
 | `[[Ops/Skills-Registry/Skill-Templates]]` | SKILL.md template, frontmatter standards | `#template` |
 | `[[Ops/Skills-Registry/Incubation-Pipeline]]` | New skill ideas → development → graduation | `#process` |
 | `[[Ops/Skills-Registry/Deprecation-Log]]` | Archived/merged skills with absorption mapping | `#archive` |
 
 ---
 
-## 📊 Skill Catalog Stats (Auto-Generated)
+## 📊 Skill Catalog Stats
 
 ```dataview
 TABLE
@@ -45,7 +40,7 @@ Log in    Develop   Document  Merge/Archive
 Catalog   + Test    + Sync    + Update refs
 ```
 
-**Incubation Criteria:**
+**Incubation Criteria**:
 - [ ] Solves real recurring problem (≥3 uses)
 - [ ] Has clear trigger conditions
 - [ ] Includes verification steps
@@ -55,10 +50,14 @@ Catalog   + Test    + Sync    + Update refs
 
 ## 🆕 Current Incubation Pipeline
 
-| Skill Idea | Trigger | Status | Owner |
-|------------|---------|--------|-------|
-| [Example: JEE Study Tracker] | Practice score tracking | 🟡 Design | [Name] |
-| [Example: Auto-sync] | Vault changes | 🟡 Design | [Name] |
+| Skill Idea                     | Trigger                 | Status    | Owner  |
+| ------------------------------ | ----------------------- | --------- | ------ |
+| JEE Mains Study Tracker        | Practice score tracking | 🟡 Design | Cosmos |
+| Neko-chan Message Generator    | Cron heartbeat messages | 🟡 Design | Cosmos |
+| Netflix Watch History Logger   | Daily note enrichment   | 🔴 Idea   | Cosmos |
+| Discord Gateway Health Monitor | Silent bot alerting     | 🔴 Idea   | Cosmos |
+| Obsidian Graph Analyzer        | Orphan/hub detection    | 🔴 Idea   | Cosmos |
+|                                |                         |           |        |
 
 ---
 
